@@ -1,3 +1,3 @@
-Jogo da velha com Jquery.
+Jogo da velha
 <br>
-Projeto desenvolvido no curso: Curso completo de Desenvolvimento Web 2018 - Udemy.
+Projeto simples feito com intuito de colocar em prática os aprendizados em javascript/jquery :P
